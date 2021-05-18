@@ -1,0 +1,121 @@
+[33mcommit 7ca281260a5a194737fbc5cb44dcecf6e5be07c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ef15c43 db4317a
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:47:15 2021 +0300
+
+    Merge branch 'master'
+
+[33mcommit db4317aca7a309bc3ed098268dc1cb26d4fcef7f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:46:29 2021 +0300
+
+    commit
+
+[33mcommit ef15c43b8b0d483887049a7fbcbc7ee7026afc4c[m
+Merge: 9462c54 69d2427
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:43:17 2021 +0300
+
+    Merge branch 'master'
+
+[33mcommit 69d24270cb0f5dbbd4a3730262572657ff1ee2cf[m
+Merge: e9401e6 69e130b
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:41:55 2021 +0300
+
+    merge test again
+
+[33mcommit 69e130bd93de51d58a67483cae2b020ae9808029[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:40:05 2021 +0300
+
+    new test
+
+[33mcommit 9462c549058c02f9ed2265a0a1caf3007c595833[m
+Merge: 049578e 155d418
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:36:18 2021 +0300
+
+    Merge branch 'main' of https://github.com/Roman-1999/GridSystem
+
+[33mcommit e9401e6d2d0c5a43357ed6c4e662770f5a4a6326[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:33:03 2021 +0300
+
+    3132
+
+[33mcommit 049578e836fd4e106e595620b42b0cceb56680d3[m
+Merge: c0161f2 e273c14
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:29:47 2021 +0300
+
+    Merge branch 'master'
+
+[33mcommit e273c14ae14cc59f73ea28e0fa010676caba928e[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:27:11 2021 +0300
+
+    bla
+
+[33mcommit c0161f258e78aafbfecd0c932c03013c62ae05e4[m
+Merge: fb8804d 1858d51
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:23:24 2021 +0300
+
+    Merge branch 'master'
+
+[33mcommit 1858d517de795b2d4be2701604e25baf5662f385[m
+Merge: 4779d37 b7a5645
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:21:54 2021 +0300
+
+    merge
+
+[33mcommit b7a5645856faaa137bf86d30df673dc379432a1a[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:07:01 2021 +0300
+
+    teststtsts22
+
+[33mcommit 4779d37d1072707101c4d050c2400405f5fafe07[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 13:05:00 2021 +0300
+
+    teststtsts
+
+[33mcommit fb8804d90150778719408a0e78860404d54e3c79[m
+Merge: b7d75e8 d85bb12
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 12:57:18 2021 +0300
+
+    Merge branch 'test'
+
+[33mcommit b7d75e87200538f3ab3709938e202267cef66a89[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 12:42:32 2021 +0300
+
+    test file master
+
+[33mcommit c4e7f94900cf040d38b3fe5fa3a9720fbbf0830d[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 12:38:32 2021 +0300
+
+    add branch master
+
+[33mcommit d85bb121326f9f87e8d560e6946beba5fc5fbb83[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 12:32:52 2021 +0300
+
+    test
+
+[33mcommit 155d41851049683249025c68b6cbaa35261308e1[m
+Author: Roman-1999 <32761485+Roman-1999@users.noreply.github.com>
+Date:   Tue May 18 12:23:32 2021 +0300
+
+    Create README.md
+
+[33mcommit b6224c740729d2b2b508175e91e766d59627b9f1[m
+Author: Roman-1999 <romanlitvinchuk1999@gmail.com>
+Date:   Tue May 18 12:20:40 2021 +0300
+
+    Initial commit
